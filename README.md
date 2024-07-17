@@ -1,1 +1,1 @@
-"# Backend_Gerakin_Mobile" 
+# Backend Aplikasi Deteksi Bahasa Isyarat (gerakIn)
